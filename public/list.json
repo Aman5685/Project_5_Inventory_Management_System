@@ -1,0 +1,21 @@
+{
+    "userProfile": {
+        "userId": "12345",
+        "name": {
+            "firstName": "Aman",
+            "lastName": "Yadav"
+        },
+        "email": "amanyadav5685@gmail.com",
+        "dateOfBirth": "2002-09-26",
+        "address": {
+            "street": "123 Main St",
+            "city": "Anytown",
+            "state": "CA",
+            "zipCode": "90210"
+        },
+        "preferences": [
+            "newsletter",
+            "promotions"
+        ]
+    }
+}

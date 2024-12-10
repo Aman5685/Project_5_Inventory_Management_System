@@ -1,0 +1,54 @@
+.App {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+h1{
+    color: #fff;
+}
+form {
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
+  input {
+    margin-right: 10px;
+    padding: 10px 15px;
+    border: 1px solid #00fff1;
+    transition: 0.3s all;
+    color: #fff;
+  }
+  
+  button {
+    padding: 10px 25px;
+    border: 1px solid #00fff1;
+    color: #00fff1;
+  }
+  button:hover
+  {
+    cursor: pointer;
+    position: relative;
+    bottom: 5px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  .Total-sum,.total-fixed
+  {
+    color: #fff;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  .submitted
+  {
+    color: #fff;
+  }
